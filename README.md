@@ -2,5 +2,4 @@
 
 I am a software developer at Lü.
 
-![Overview](https://raw.githubusercontent.com/OmarALFA/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Languages](https://raw.githubusercontent.com/OmarALFA/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarALFA&count_private=true&show_icons=true&theme=merko)
